@@ -1,0 +1,45 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 549"
+author: "John Proefrock<br>University of Washington<br>jproef@uw.edu"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+
+## About Me | Personal {data-background=dumb_picture.jpg data-background-size="60%" data-background-position="50% 90%"}
+
+- I was born in Tampa, Florida
+- My favorite foods are buffalo wings and pickles
+- My favorite animals are Surf Smelt and Common Kingfishers
+
+
+## About Me | Academic
+
+- I completed my undergraduate education at the University of Miami
+- I majored in Marine Science and Biology
+  - With minors in Ecosystem Science/Policy and Art
+
+
+# Data Science
+
+
+## Course Topics | 3 Things I enjoyed learning about
+
+1) Utilizing exploratory data visualization to understand trends within data that inform the expository stage of the analysis
+2) How to build Shiny Apps that improve the accessibility of data analysis for those who are not familiar with R
+3) The importance of reproducibility in data analysis and how to best structure research compendiums to ensure that the analysis can be easily replicated
+
+## Course Topics | 3 Things I'd like to learn more about
+
+1) Building a relational database using PostgreSQL for my spawning beach survey data
+2) How to leverage Shiny websites for instructional purposes
+3) Strategies for staying current with new packages and tools in R that may improve the efficiency of my data analysis
+
+## {data-background=Thanks.png data-background-size=cover}
+
